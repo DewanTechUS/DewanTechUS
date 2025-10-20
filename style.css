@@ -8,8 +8,8 @@ body {
 
 /* Navigation Bar */
 .nav {
-  background-color: #111;
-  padding: 0.5rem 0;
+  background-color: #3a25a4;
+  padding: 1rem 0;
 }
 
 .nav ul {
@@ -82,7 +82,7 @@ body {
 /* Footer */
 footer {
   text-align: center;
-  background: #111;
+  background: #3a25a4;
   color: white;
   padding: 10px;
   font-size: 0.9rem;

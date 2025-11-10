@@ -1,7 +1,7 @@
 # Hi, I'm Dewan Farhad Mahmud (Rocky) 👋
 
 **Dewan Farhad Mahmud** 
-**Student of Per Scholas linkhttps://perscholas.org/**  
+**Student of Per Scholas, 2025-RTT-57. link https://perscholas.org/**  
 `DewanTechUS` · Norcross, Georgia  
 
 I’m a hands-on **Software Engineer in training (MERN Stack)** with a long background in **PC hardware, repair, networking, and QA**.  

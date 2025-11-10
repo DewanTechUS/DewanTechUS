@@ -1,51 +1,45 @@
-Flex Card Layout – HTML & CSS Project
+# Hi, I'm Dewan Mahmud (Rocky) 👋
 
-This project is a simple responsive card layout built using HTML and CSS. It displays a short text section alongside an image, centered on the screen — similar to a clean landing card or product showcase.
+**Dewan Farhad Mahmud**  
+`DewanTechUS` · Norcross, Georgia  
 
-Project Overview:
+I’m a hands-on **Software Engineer in training (MERN Stack)** with a long background in **PC hardware, repair, networking, and QA**.  
+Now I’m focusing on building clean, real-world web projects and leveling up every single day.
 
-Uses Flexbox for side-by-side alignment.
+---
 
-Responsive card design with text and image.
+## Who I Am
 
-Minimalist style suitable for landing pages, portfolios, or UI demos.
+- 📚 Current: Student at **Per Scholas** – Software Engineering (MERN)
+- 💻 Past: 10+ years in **technical support, custom PC builds, troubleshooting & QA**
+- 🧠 Style: Slow, careful learner — but I **don’t quit** and I care about quality.
+- 🎯 Goal: Become a strong full-stack dev, support my family, and build real solutions for clients.
 
-Features:
+---
 
-Responsive and centered layout
+## What I’m Working On
 
-Clean and modern design
+- DOM projects, form validation, interactive UIs
+- Real-world layouts (cards, landing pages, blogs)
+- Step-by-step clean code with comments so **new learners** can follow
+- Building my personal brand: **DewanTechUS / Dewan Global LLC**
 
-Easy to customize (colors, image, text)
+You’ll see labs, SBAs, and practice projects here – all part of my learning journey.
 
-Footer with link branding (e.g., darkcssweb.com)
+---
 
-File Structure:
-index.html – Main HTML file
-style.css – CSS styling file
-README.md – Project documentation
+## How I Work
 
-How to Use:
+- I document my steps so others can learn from my repos.
+- I’m open to feedback and improving my code.
+- If you use or learn from my code, a small **credit or mention** is always appreciated 🙏
 
-Download or clone this repository.
+---
 
-Open the index.html file in your browser.
+## Connect With Me
 
-Customize the text, image, and link to match your own project.
+- 🌐 Website: [dewantech.com](https://dewantech.com)
+- 💼 LinkedIn: [linkedin.com/in/dewantechus](https://linkedin.com/in/dewantechus)
+- 🐙 GitHub: [github.com/DewanTechUS](https://github.com/DewanTechUS)
 
-Author:
-Dewan Mahmud (DewanTechUS)
-Website: dewantech.com
-LinkedIn: linkedin.com/in/dewantechus
-GitHub: github.com/DewanTechUS
-
-Preview:
-(Screenshot.png can be placed here)
-
-Future Ideas:
-
-Add hover animations
-
-Add mobile responsiveness (image below text)
-
-Add multiple cards in a grid
+Thanks for visiting my GitHub. More projects coming as I grow.

@@ -39,7 +39,7 @@ You’ll see labs, SBAs, and practice projects here – all part of my learning 
 ## Connect With Me
 
 - 🌐 Website: [dewantech.com](https://dewantech.com)
-- 💼 LinkedIn: [linkedin.com/in/dewantechus](https://linkedin.com/in/dewantechus)
+- 💼 LinkedIn: [linkedin.com/in/dewan-mahmud-a579a0265](https://www.linkedin.com/in/dewan-mahmud-a579a0265/)
 - 🐙 GitHub: [github.com/DewanTechUS](https://github.com/DewanTechUS)
 
 Thanks for visiting my GitHub. More projects coming as I grow.

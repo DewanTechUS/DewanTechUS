@@ -1,6 +1,7 @@
 # Hi, I'm Dewan Farhad Mahmud (Rocky) 👋
 
-**Dewan Farhad Mahmud**  
+**Dewan Farhad Mahmud** 
+**Student of Per Scholas linkhttps://perscholas.org/**  
 `DewanTechUS` · Norcross, Georgia  
 
 I’m a hands-on **Software Engineer in training (MERN Stack)** with a long background in **PC hardware, repair, networking, and QA**.  
@@ -11,7 +12,7 @@ Now I’m focusing on building clean, real-world web projects and leveling up ev
 ## Who I Am
 
 - 📚 Current: Student at **Per Scholas** – Software Engineering (MERN)
-- 💻 Past: 10+ years in **technical support, custom PC builds, troubleshooting & QA**
+- 💻 Past: 10+ years in **technical support, custom PC builds, troubleshooting**
 - 🧠 Style: Careful learner — but I **don’t quit** and I care about quality.
 - 🎯 Goal: Become a strong full-stack dev, support my family, and build real solutions for clients.
 

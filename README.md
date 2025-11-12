@@ -13,7 +13,7 @@ Now I’m focusing on building clean, real-world web projects and leveling up ev
 - 📚 Current: Student at **Per Scholas** – Software Engineering (MERN)
 - 💻 Past: Over a decade of experience in technical support, custom PC builds, and troubleshooting.**
 - 🧠 Style: Careful learner — but I **don’t quit** and I care about quality.
-- 🎯 Goal: Become a strong full-stack dev, support my family, and build real solutions for clients.
+- 🎯 Goal: Become a strong full-stack dev and build real solutions for clients.
 
 ---
 

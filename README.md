@@ -1,4 +1,4 @@
-# Hi, I'm Dewan Farhad Mahmud (Rocky) 👋
+# Hi, I'm Dewan Farhad Mahmud (Rocky)
 
 **Dewan Farhad Mahmud** 
 `DewanTechUS` · Norcross, Georgia  

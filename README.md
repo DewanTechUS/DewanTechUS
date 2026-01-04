@@ -1,45 +1,102 @@
-# Hi, I'm Dewan Farhad Mahmud (Rocky)
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Dewan Farhad Mahmud (Rocky)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-**Dewan Farhad Mahmud** 
-`DewanTechUS` · Norcross, Georgia  
+<p align="center">
+  <b>Software Engineer in Training (MERN)</b> • Per Scholas Cohort <b>2025-RTT-57</b> • Norcross, GA
+</p>
 
-I’m a hands-on **Software Engineer in training (MERN Stack)** with a long background in **PC hardware, repair, networking, and QA**.  
-Now I’m focusing on building clean, real-world web projects and leveling up every single day.
+<p align="center">
+  <img src="https://github.com/devmaster116/devmaster116/blob/main/Logo.gif" />
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+(MERN)+in+Training;Per+Scholas+Software+Engineering;Learning+by+Doing+Every+Day;Focused+on+Clean+Code+and+Growth&center=true&width=560&height=45">
+  </a>
+</p>
 
-## Who I Am
-
-- 📚 Current: Student at **Per Scholas** – Software Engineering (MERN)
-- 💻 Past: Over a decade of experience in technical support, custom PC builds, and troubleshooting.**
-- 🧠 Style: Careful learner — but I **don’t quit** and I care about quality.
-- 🎯 Goal: Become a strong full-stack dev and build real solutions for clients.
-
----
-
-## What I’m Working On
-
-- DOM projects, form validation, interactive UIs
-- Real-world layouts (cards, landing pages, blogs)
-- Step-by-step clean code with comments so **new learners** can follow
-- Building my personal brand: **DewanTechUS / Dewan Global LLC**
-
-You’ll see labs, SBAs, and practice projects here – all part of my learning journey.
+<p align="center">
+  <a href="https://github.com/DewanTechUS">GitHub</a> •
+  <a href="https://dewantech.com/">Portfolio</a> •
+  <a href="https://linkedin.com/in/dewan-mahmud-a579a0265">LinkedIn</a>
+</p>
 
 ---
 
-## How I Work
+## 👋 About Me
 
-- I document my steps so others can learn from my repos.
-- I’m open to feedback and improving my code.
-- If you use or learn from my code, a small **credit or mention** is always appreciated 🙏
+👋 I’m **Dewan Mahmud (Rocky)** — a **Software Engineering trainee at Per Scholas**, building real-world web applications using **React, Node.js/Express, MongoDB, and TypeScript**.
+
+🔄 I’m transitioning into software engineering after **over a decade in technical support, IT, and QA**, bringing strong troubleshooting skills, attention to detail, and a **quality-first mindset**.
+
+I’m currently seeking **Junior / Associate Software Engineer** roles focused on **React and full-stack development**, and I’m interested in teams that value **clean code, collaboration, and continuous learning**.
 
 ---
 
-## Connect With Me
+## 🧰 Tools & Technologies
 
-- 🌐 Website: [dewantech.com](https://dewantech.com)
-- 💼 LinkedIn: [linkedin.com/in/dewan-mahmud-a579a0265](https://www.linkedin.com/in/dewan-mahmud-a579a0265/)
-- 🐙 GitHub: [github.com/DewanTechUS](https://github.com/DewanTechUS)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Foundations;React+and+TypeScript;Styling+and+UI;MERN+Stack+in+Progress&center=true&width=620&height=40">
+</p>
 
-Thanks for visiting my GitHub. More projects coming as I grow.
+<table align="center">
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" /><br>HTML5</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" /><br>CSS3</td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" /><br>JavaScript (ES6+)</td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" /><br>React</td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" /><br>TypeScript</td>
+</tr>
+
+<tr>
+  <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" /><br>Git</td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" /><br>GitHub</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" /><br>Bootstrap</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS</td>
+</tr>
+
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sass" /><br>Sass</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jquery" /><br>jQuery</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" /><br>Express</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB</td>
+</tr>
+
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" /><br>Advanced React</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" /><br>Deployment</td>
+</tr>
+</table>
+
+---
+
+## 📚 Current Learning Focus (MERN Stack)
+
+- Advanced React (Hooks, Context API, Routing)
+- Node.js & Express for backend development
+- RESTful API design and integration
+- MongoDB & Mongoose (NoSQL databases)
+- Authentication & Authorization
+- Full-stack MERN integration
+- Deployment of production-ready web applications
+
+---
+
+## 🎯 Open To
+
+- Junior / Associate Software Engineer  
+- Frontend Developer  
+- Full-Stack Intern  
+
+🔗 **Portfolio:** https://dewantech.com
+
+---
+
+⭐ Thanks for visiting — I’m building consistently and improving every day.  
+**DewanTechUS — technology built with purpose.**
+

@@ -93,8 +93,11 @@ I’m currently seeking **Junior / Associate Software Engineer** roles focused o
 - Frontend Developer  
 - Full-Stack Intern  
 
-🔗 **Portfolio:** https://dewantech.com
-🔗 **LinkedIn:** https://linkedin.com/in/dewan-mahmud-a579a0265
+### 🔗 Connect with Me
+
+- 🌐 **Portfolio:** https://dewantech.com
+- 💼 **LinkedIn:** https://linkedin.com/in/dewan-mahmud-a579a0265
+
 
 ---
 

@@ -94,9 +94,10 @@ I’m currently seeking **Junior / Associate Software Engineer** roles focused o
 - Full-Stack Intern  
 
 🔗 **Portfolio:** https://dewantech.com
+🔗 **LinkedIn:** https://linkedin.com/in/dewan-mahmud-a579a0265
 
 ---
 
 ⭐ Thanks for visiting — I’m building consistently and improving every day.  
-**DewanTechUS — technology built with purpose.**
+**DewanTechUS — technology built with purpose.** ⚙️
 

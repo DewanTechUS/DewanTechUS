@@ -28,11 +28,11 @@
 
 ## 👋 About Me
 
-👋 I’m **Dewan Mahmud (Rocky)** — a **Software Engineering trainee at Per Scholas**, building real-world web applications using **React, Node.js/Express, MongoDB, and TypeScript**.
+👋 I’m Dewan Mahmud (Rocky) — a Software Engineering trainee at Per Scholas, building real-world **full-stack MERN** web applications using **React, Node.js/Express, MongoDB, and TypeScript**.
 
-🔄 I’m transitioning into software engineering after **over a decade in technical support, IT, and QA**, bringing strong troubleshooting skills, attention to detail, and a **quality-first mindset**.
+🔄 I’m transitioning into software engineering after over a decade in technical support, IT, and QA, bringing strong troubleshooting skills, attention to detail, and a quality-first mindset.
 
-I’m currently seeking **Junior / Associate Software Engineer** roles focused on **React and full-stack development**, and I’m interested in teams that value **clean code, collaboration, and continuous learning**.
+I’m currently seeking **Junior / Associate Software Engineer** roles focused on **full-stack development**, and I’m interested in teams that value clean code, collaboration, and continuous learning.
 
 ---
 

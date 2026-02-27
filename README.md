@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineer in Training (MERN)</b> • Per Scholas Cohort <b>2025-RTT-57</b> • Norcross, GA
+  <b>Software Engineer (MERN)</b> • Per Scholas Software Engineering Graduate • Norcross, GA
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+(MERN)+in+Training;Per+Scholas+Software+Engineering;Learning+by+Doing+Every+Day;Focused+on+Clean+Code+and+Growth&center=true&width=560&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer+(MERN);Per+Scholas+Software+Engineering+Graduate;Building+Real-World+Applications;Focused+on+Clean+Code+and+Growth&center=true&width=560&height=45">
   </a>
 </p>
 
@@ -28,18 +28,16 @@
 
 ## 👋 About Me
 
-👋 I’m Dewan Mahmud (Rocky) — a Software Engineering trainee at Per Scholas, building real-world **full-stack MERN** web applications using **React, Node.js/Express, MongoDB, and TypeScript**.
+👋 I’m **Dewan Mahmud (Rocky)** — a **Software Engineer** specializing in **full-stack MERN** development, building real-world web applications using **React, Node.js/Express, MongoDB, and TypeScript**.
 
-🔄 I’m transitioning into software engineering after over a decade in technical support, IT, and QA, bringing strong troubleshooting skills, attention to detail, and a quality-first mindset.
-
-I’m currently seeking **Junior / Associate Software Engineer** roles focused on **full-stack development**, and I’m interested in teams that value clean code, collaboration, and continuous learning.
+🔄 I transitioned into software engineering after over a decade in **technical support, IT, and QA**, bringing strong troubleshooting skills, attention to detail, and a quality-first mindset.
 
 ---
 
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Foundations;React+and+TypeScript;Styling+and+UI;MERN+Stack+in+Progress&center=true&width=620&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Development;React+and+TypeScript;UI+and+Styling;Full-Stack+MERN+Applications&center=true&width=620&height=40">
 </p>
 
 <table align="center">
@@ -75,32 +73,24 @@ I’m currently seeking **Junior / Associate Software Engineer** roles focused o
 
 ---
 
-## 📚 Current Learning Focus (MERN Stack)
+## 📚 Current Focus
 
 - Advanced React (Hooks, Context API, Routing)
-- Node.js & Express for backend development
+- Scalable Node.js & Express backends
 - RESTful API design and integration
-- MongoDB & Mongoose (NoSQL databases)
-- Authentication & Authorization
-- Full-stack MERN integration
-- Deployment of production-ready web applications
+- MongoDB & Mongoose
+- Authentication & Authorization (JWT)
+- Full-stack MERN architecture
+- Deployment and production best practices
 
 ---
 
-## 🎯 Open To
+## 🔗 Connect with Me
 
-- Junior / Associate Software Engineer  
-- Frontend Developer  
-- Full-Stack Intern  
-
-### 🔗 Connect with Me
-
-- 🌐 **Portfolio:** https://dewantech.com
-- 💼 **LinkedIn:** https://linkedin.com/in/dewan-mahmud-a579a0265
-
+- 🌐 **Portfolio:** https://dewantech.com  
+- 💼 **LinkedIn:** https://linkedin.com/in/dewan-mahmud-a579a0265  
 
 ---
 
-⭐ Thanks for visiting — I’m building consistently and improving every day.  
+⭐ Thanks for visiting — I build consistently and ship with intention.  
 **DewanTechUS — technology built with purpose.** ⚙️
-

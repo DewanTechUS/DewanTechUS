@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineer (MERN)</b> • Per Scholas Software Engineering Graduate • Norcross, GA
+  <b>Software Engineer | Full-Stack Developer (MERN)</b> • Per Scholas Software Engineering Graduate • Norcross, GA
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
 
 <tr>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" /><br>Advanced React</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" /><br>Deployment</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" /><br>Deployment (Vercel, Netlify, Render)</td>
 </tr>
 </table>
 

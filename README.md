@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer (MERN) • IT Support Specialist | Over a Decade of Technical Experience • CompTIA A+ Certified | Norcross, GA
+  <b>Full-Stack Software Engineer (MERN) • IT Support Specialist • Over a Decade of Technical Experience • CompTIA A+ Certified • Norcross, GA</b>
 </p>
 
 <p align="center">
@@ -14,13 +14,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer+(MERN);Per+Scholas+Software+Engineering+Graduate;Building+Real-World+Applications;Focused+on+Clean+Code+and+Growth&center=true&width=560&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer+(MERN);IT+Support+Specialist;Over+a+Decade+of+Technical+Experience;Building+Real-World+Applications;Focused+on+Reliable+Solutions&center=true&width=700&height=45">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DewanTechUS">GitHub</a> •
-  <a href="https://dewantech.com/">Portfolio</a> •
+  <a href="https://dewanmahmud.com/">Personal Portfolio</a> •
+  <a href="https://dewantech.com/">DewanTech</a> •
   <a href="https://linkedin.com/in/dewan-mahmud-a579a0265">LinkedIn</a>
 </p>
 
@@ -28,71 +29,198 @@
 
 ## 👋 About Me
 
-💻 **I’m Dewan Mahmud (Rocky)** — a Software Engineer and Full-Stack MERN Developer building real-world web applications with **React, Node.js, Express, MongoDB, and TypeScript.**
+💻 **I’m Dewan Mahmud (Rocky)** — a Software Engineer and Full-Stack MERN Developer building real-world web applications with **React, Node.js, Express, MongoDB, JavaScript, and TypeScript.**
 
-🛠️ **I bring over a decade of experience** in IT support, technical troubleshooting, systems support, and software QA, combining that background with modern full-stack development to build reliable, user-focused applications.
+🛠️ **I bring over a decade of technical experience** in IT support, technical troubleshooting, systems support, hardware and software configuration, and software QA.
 
-🚀 **My experience spans** software development, debugging, testing, system configuration, technical support, deployment, and problem-solving across both software and IT environments.
+🚀 **I combine my IT background with modern software engineering** to design, build, test, deploy, troubleshoot, and support reliable, user-focused applications.
+
+⚙️ **My experience spans** full-stack development, debugging, testing, system configuration, technical support, REST APIs, authentication, deployment, and problem-solving across both software and IT environments.
 
 ---
 
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Development;React+and+TypeScript;UI+and+Styling;Full-Stack+MERN+Applications&center=true&width=620&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Development;React+and+TypeScript;Backend+Development;Full-Stack+MERN+Applications;IT+Support+and+Troubleshooting&center=true&width=700&height=40">
 </p>
 
 <table align="center">
 <tr>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" /><br>HTML5</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" /><br>CSS3</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" /><br>JavaScript (ES6+)</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" /><br>React</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" /><br>TypeScript</td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" /><br>
+    HTML5
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" /><br>
+    CSS3
+  </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" /><br>
+    JavaScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" /><br>
+    React
+  </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" /><br>
+    TypeScript
+  </td>
 </tr>
 
 <tr>
-  <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" /><br>Git</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" /><br>GitHub</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" /><br>Bootstrap</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS</td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nodejs" /><br>
+    Node.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express" /><br>
+    Express
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" /><br>
+    MongoDB
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bootstrap" /><br>
+    Bootstrap
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" /><br>
+    Tailwind CSS
+  </td>
 </tr>
 
 <tr>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sass" /><br>Sass</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jquery" /><br>jQuery</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" /><br>Express</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB</td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=sass" /><br>
+    Sass
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=jquery" /><br>
+    jQuery
+  </td>
+  <td align="center" width="96">
+    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" /><br>
+    Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" /><br>
+    GitHub
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vscode" /><br>
+    VS Code
+  </td>
 </tr>
 
 <tr>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" /><br>Advanced React</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" /><br>Deployment (Vercel, Netlify, Render)</td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vercel" /><br>
+    Vercel
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=linux" /><br>
+    Linux
+  </td>
 </tr>
 </table>
 
 ---
 
+## 🖥️ IT Support & Systems
+
+- Windows & macOS troubleshooting, configuration, maintenance, system support, and end-user assistance
+- Desktop and laptop hardware diagnostics and repair
+- Software installation, configuration, updates, and troubleshooting
+- User accounts, permissions, access, and system configuration
+- Microsoft 365 support
+- Networking, Wi-Fi, TCP/IP, and connectivity troubleshooting
+- Printers, peripherals, and workstation support
+- Remote and onsite technical support
+- System maintenance, optimization, and performance troubleshooting
+- Technical documentation and end-user support
+
+---
+
+## 🧪 Software QA & Testing
+
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Debugging and Troubleshooting
+- Test Case Execution
+- Defect Documentation
+- Bug Reporting
+- Quality Assurance
+- User Acceptance Testing
+- Cross-Browser Testing
+
+---
+
+## ⚙️ Backend & Deployment
+
+- RESTful API Development
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- MongoDB & Mongoose
+- Node.js & Express
+- Nginx
+- VPS Deployment
+- Git & GitHub
+- Vercel
+- Netlify
+- Render
+- Production Troubleshooting
+
+---
+
 ## 📚 Current Focus
 
-- Advanced React (Hooks, Context API, Routing)
-- Scalable Node.js & Express backends
-- RESTful API design and integration
-- MongoDB & Mongoose
-- Authentication & Authorization (JWT)
-- Full-stack MERN architecture
-- Deployment and production best practices
+- ⚛️ Advanced React — Hooks, Context API, Routing
+- 🟢 Scalable Node.js & Express backends
+- 🔗 RESTful API design and integration
+- 🍃 MongoDB & Mongoose
+- 🔐 Authentication & Authorization with JWT
+- 🏗️ Full-Stack MERN architecture
+- ☁️ Cloud and production deployment
+- 🛡️ Secure application development
+- 🖥️ Systems and infrastructure support
+- 🤖 AI-assisted development and automation
+
+---
+
+## 🎯 What I Bring
+
+✅ Over a decade of technical experience  
+✅ Full-Stack MERN development  
+✅ Hands-on IT support and systems troubleshooting  
+✅ Software QA and debugging experience  
+✅ CompTIA A+ certification  
+✅ Production deployment experience  
+✅ Strong technical and problem-solving skills  
+✅ Ability to bridge software engineering, IT support, and production operations  
 
 ---
 
 ## 🔗 Connect with Me
 
-- 🌐 **Portfolio:** https://dewantech.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/dewan-mahmud-a579a0265  
+🌐 **Personal Portfolio:** https://dewanmahmud.com  
+🚀 **DewanTech:** https://dewantech.com  
+💼 **LinkedIn:** https://linkedin.com/in/dewan-mahmud-a579a0265  
+💻 **GitHub:** https://github.com/DewanTechUS  
 
 ---
 
-⭐ Thanks for visiting — I build consistently and ship with intention.  
-**DewanTechUS — technology built with purpose.** ⚙️
+<p align="center">
+  <b>💡 Building Software • Solving Problems • Supporting Technology</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <b>DewanTech — Technology Built with Purpose. ⚙️</b>
+</p>

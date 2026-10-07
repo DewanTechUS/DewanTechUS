@@ -28,9 +28,11 @@
 
 ## 👋 About Me
 
-👋 I’m **Dewan Mahmud (Rocky)** — a **Software Engineer** specializing in **full-stack MERN** development, building real-world web applications using **React, Node.js/Express, MongoDB, and TypeScript**.
+💻 **I’m Dewan Mahmud (Rocky)** — a Software Engineer and Full-Stack MERN Developer building real-world web applications with **React, Node.js, Express, MongoDB, and TypeScript.**
 
-🔄 I transitioned into software engineering after over a decade in **technical support, IT, and QA**, bringing strong troubleshooting skills, attention to detail, and a quality-first mindset.
+🛠️ **I bring over a decade of experience** in IT support, technical troubleshooting, systems support, and software QA, combining that background with modern full-stack development to build reliable, user-focused applications.
+
+🚀 **My experience spans** software development, debugging, testing, system configuration, technical support, deployment, and problem-solving across both software and IT environments.
 
 ---
 

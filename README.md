@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineer | Full-Stack Developer (MERN)</b> • Per Scholas Software Engineering Graduate • Norcross, GA
+  <b>Full-Stack Software Engineer (MERN) • IT Support Specialist | Over a Decade of Technical Experience • CompTIA A+ Certified | Norcross, GA
 </p>
 
 <p align="center">

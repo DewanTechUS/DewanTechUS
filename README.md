@@ -1,226 +1,69 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Dewan Mahmud (Rocky)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Software Engineer (MERN) • IT Support Specialist • Over a Decade of Technical Experience • CompTIA A+ Certified • Norcross, GA</b>
-</p>
+# Hey, I'm Dewan Mahmud 👋
 
-<p align="center">
-  <img src="https://github.com/devmaster116/devmaster116/blob/main/Logo.gif" />
-</p>
+### Full-Stack Software Engineer (MERN) · IT Systems Specialist
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer+(MERN);IT+Support+Specialist;Over+a+Decade+of+Technical+Experience;Building+Real-World+Applications;Focused+on+Reliable+Solutions&center=true&width=700&height=45">
-  </a>
-</p>
+**I build practical software, support reliable systems, and turn technical problems into working solutions.**
 
-<p align="center">
-  <a href="https://github.com/DewanTechUS">GitHub</a> •
-  <a href="https://dewanmahmud.com/">Personal Portfolio</a> •
-  <a href="https://dewantech.com/">DewanTech</a> •
-  <a href="https://linkedin.com/in/dewan-mahmud-a579a0265">LinkedIn</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-dewanmahmud.com-0A66C2?style=for-the-badge)](https://dewanmahmud.com)
+[![DewanTech](https://img.shields.io/badge/DewanTech-Website-2E8B57?style=for-the-badge)](https://dewantech.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dewan-mahmud-a579a0265)
 
----
+![Typing headline](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=1200&center=true&vCenter=true&width=800&lines=Full-Stack+React+%2B+Node.js+Developer;CompTIA+A%2B+Certified+IT+Professional;Building+%E2%80%A2+Testing+%E2%80%A2+Deploying+%E2%80%A2+Supporting)
 
-## 👋 About Me
+</div>
 
-💻 **I’m Dewan Mahmud (Rocky)** — a Software Engineer and Full-Stack MERN Developer building real-world web applications with **React, Node.js, Express, MongoDB, JavaScript, and TypeScript.**
+## 👨‍💻 About me
 
-🛠️ **I bring over a decade of technical experience** in IT support, technical troubleshooting, systems support, hardware and software configuration, and software QA.
+I'm a **full-stack MERN developer** and **CompTIA A+ certified IT professional** with **over a decade of experience** spanning technical support, troubleshooting, systems maintenance, and software QA.
 
-🚀 **I combine my IT background with modern software engineering** to design, build, test, deploy, troubleshoot, and support reliable, user-focused applications.
+I build web applications with **React, TypeScript, Node.js, Express, and MongoDB**, and work hands-on with **Linux, Nginx, VPS deployments, authentication, and production support**. I enjoy creating software that's useful, maintainable, and ready for real users.
 
-⚙️ **My experience spans** full-stack development, debugging, testing, system configuration, technical support, REST APIs, authentication, deployment, and problem-solving across both software and IT environments.
+📍 **Based in Norcross, Georgia** · 🌐 Open to opportunities in **software engineering, QA, and IT support**
 
----
+## 🚀 Selected projects
 
-## 🧰 Tools & Technologies
+| Project | What I built | Code / demo |
+| :--- | :--- | :--- |
+| **DewanTech SaaS** | MERN platform with authentication, role-based access, and deployment experience | [Repository](https://github.com/DewanTechUS/DewanTechSaaS) |
+| **DoNext** | Voice-enabled productivity app with reminders, shared lists, and offline-first sync | [Repository](https://github.com/DewanTechUS/donext) |
+| **Full-Stack CRUD Notes** | MERN notes application connecting frontend, REST API, and database | [Repository](https://github.com/DewanTechUS/Full_Stack_CRUD_Notes_Application_MERN) |
+| **React IP Address Tracker** | React + TypeScript app with IP/domain lookup and interactive mapping | [Code](https://github.com/DewanTechUS/Project_React_Development_IP_Address_Tracker) · [Live demo](https://project-react-development-ip-address.onrender.com/) |
+| **React Dashboard** | Responsive interactive dashboard built with React | [Code](https://github.com/DewanTechUS/SBA_9_React_Dashboard_Application) · [Live demo](https://sba-9-react-dashboard-application.onrender.com/) |
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Development;React+and+TypeScript;Backend+Development;Full-Stack+MERN+Applications;IT+Support+and+Troubleshooting&center=true&width=700&height=40">
-</p>
+## 🛠️ Technical toolkit
 
-<table align="center">
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" /><br>
-    HTML5
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" /><br>
-    CSS3
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" /><br>
-    JavaScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" /><br>
-    React
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" /><br>
-    TypeScript
-  </td>
-</tr>
+**Software engineering**  
+![Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,express,mongodb,git,github)
 
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nodejs" /><br>
-    Node.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=express" /><br>
-    Express
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" /><br>
-    MongoDB
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=bootstrap" /><br>
-    Bootstrap
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tailwind" /><br>
-    Tailwind CSS
-  </td>
-</tr>
+**Systems, delivery & tooling**  
+![Tools](https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,vscode,postman,vercel)
 
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=sass" /><br>
-    Sass
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=jquery" /><br>
-    jQuery
-  </td>
-  <td align="center" width="96">
-    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" /><br>
-    Git
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" /><br>
-    GitHub
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" /><br>
-    VS Code
-  </td>
-</tr>
+- **Backend & security:** REST APIs, JWT, RBAC, Mongoose
+- **Infrastructure:** Ubuntu/Linux servers, Nginx, VPS hosting, DNS, SSL, system administration
+- **IT support:** Windows troubleshooting, hardware diagnostics, software deployment, networking, user support
+- **Quality:** Manual testing, regression testing, test cases, defect reporting, debugging
 
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vercel" /><br>
-    Vercel
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=linux" /><br>
-    Linux
-  </td>
-</tr>
-</table>
+## 🎓 Training & certifications
 
----
+- **CompTIA A+ Certified**
+- **Per Scholas** — Software Engineering (MERN)
+- **ISTQB / ASTQB** — Certified Tester Foundation Level, Agile Tester
+- **Google IT Support Professional Certificate**
 
-## 🖥️ IT Support & Systems
+## 📈 GitHub activity
 
-- Windows & macOS troubleshooting, configuration, maintenance, system support, and end-user assistance
-- Desktop and laptop hardware diagnostics and repair
-- Software installation, configuration, updates, and troubleshooting
-- User accounts, permissions, access, and system configuration
-- Microsoft 365 support
-- Networking, Wi-Fi, TCP/IP, and connectivity troubleshooting
-- Printers, peripherals, and workstation support
-- Remote and onsite technical support
-- System maintenance, optimization, and performance troubleshooting
-- Technical documentation and end-user support
+<div align="center">
 
----
+![GitHub contribution streak](https://streak-stats.demolab.com?user=DewanTechUS&theme=transparent&hide_border=true)
 
-## 🧪 Software QA & Testing
+</div>
 
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Debugging and Troubleshooting
-- Test Case Execution
-- Defect Documentation
-- Bug Reporting
-- Quality Assurance
-- User Acceptance Testing
-- Cross-Browser Testing
+## 🤝 Let's connect
 
----
+I enjoy collaborating on practical applications, improving user experience, and solving tricky technical problems.
 
-## ⚙️ Backend & Deployment
+**[Portfolio](https://dewanmahmud.com)** · **[DewanTech](https://dewantech.com)** · **[LinkedIn](https://linkedin.com/in/dewan-mahmud-a579a0265)** · **[GitHub](https://github.com/DewanTechUS)**
 
-- RESTful API Development
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- MongoDB & Mongoose
-- Node.js & Express
-- Nginx
-- VPS Deployment
-- Git & GitHub
-- Vercel
-- Netlify
-- Render
-- Production Troubleshooting
-
----
-
-## 📚 Current Focus
-
-- ⚛️ Advanced React — Hooks, Context API, Routing
-- 🟢 Scalable Node.js & Express backends
-- 🔗 RESTful API design and integration
-- 🍃 MongoDB & Mongoose
-- 🔐 Authentication & Authorization with JWT
-- 🏗️ Full-Stack MERN architecture
-- ☁️ Cloud and production deployment
-- 🛡️ Secure application development
-- 🖥️ Systems and infrastructure support
-- 🤖 AI-assisted development and automation
-
----
-
-## 🎯 What I Bring
-
-✅ Over a decade of technical experience  
-✅ Full-Stack MERN development  
-✅ Hands-on IT support and systems troubleshooting  
-✅ Software QA and debugging experience  
-✅ CompTIA A+ certification  
-✅ Production deployment experience  
-✅ Strong technical and problem-solving skills  
-✅ Ability to bridge software engineering, IT support, and production operations  
-
----
-
-## 🔗 Connect with Me
-
-🌐 **Personal Portfolio:** https://dewanmahmud.com  
-🚀 **DewanTech:** https://dewantech.com  
-💼 **LinkedIn:** https://linkedin.com/in/dewan-mahmud-a579a0265  
-💻 **GitHub:** https://github.com/DewanTechUS  
-
----
-
-<p align="center">
-  <b>💡 Building Software • Solving Problems • Supporting Technology</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
-<p align="center">
-  <b>DewanTech — Technology Built with Purpose. ⚙️</b>
-</p>
+<div align="center"><sub>Building software. Solving problems. Supporting technology.</sub></div>
